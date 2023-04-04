@@ -1,0 +1,15 @@
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.csproj.AssemblyReference.cache
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.AssemblyInfoInputs.cache
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.AssemblyInfo.cs
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.csproj.CoreCompileInputs.cache
+/Users/lissaprokopenko/Desktop/studies/mas/bin/Debug/net6.0/mas
+/Users/lissaprokopenko/Desktop/studies/mas/bin/Debug/net6.0/mas.deps.json
+/Users/lissaprokopenko/Desktop/studies/mas/bin/Debug/net6.0/mas.runtimeconfig.json
+/Users/lissaprokopenko/Desktop/studies/mas/bin/Debug/net6.0/mas.dll
+/Users/lissaprokopenko/Desktop/studies/mas/bin/Debug/net6.0/mas.pdb
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.dll
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/refint/mas.dll
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.pdb
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/mas.genruntimeconfig.cache
+/Users/lissaprokopenko/Desktop/studies/mas/obj/Debug/net6.0/ref/mas.dll
